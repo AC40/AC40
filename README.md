@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AC40
-- 👀 I’m interested in Swift(UI)
 - 🌱 I’m currently learning Swift and SwiftUI
 
 <!---
