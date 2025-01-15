@@ -1,6 +1,8 @@
 # Hi, I'm Aaron 👋
 Starting in 2020, I began teaching myself [Swift](https://www.swift.org) and SwiftUI. After one and a half years of learning a lot about iOS, macOS and the Swift Ecosystem, I focused more on web development. I still worked with mobile applications, but focused mostly on websites. Since then I tried many different technologies including (but not limited to) [Astro.js](https://astro.build), [Tailwind.css](https://tailwindcss.com), [Vapor](https://vapor.codes), Flask and Ubuntu Server.
+<br>
 I am by no means proficient in these technologies, but I try to gain a basic understanding of many different technologies to nevery be limited by ability, but only time.
+<br>
 Additonally, I have experience with complimentary technologies such as Git(-Hub), CI/CD, Zsh/Shell Shell, Web-deployment and design.
 
 
