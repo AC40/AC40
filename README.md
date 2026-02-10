@@ -10,9 +10,9 @@ Based in Germany 🇩🇪
 
 🚀 **[beyond925](https://beyond925.de)** — My startup playground. Exploring ideas, shipping products.
 
-📸 **Vibegram** — [Add brief description if you want, or I can leave it minimal]
+📸 **Vibegram** — The only Claude Code interface that does not sacrifice functionality.
 
-🛠️ **ACMS** — [Your content management system / whatever ACMS stands for]
+🛠️ **ACMS** — A tiny content management system built for solo devs and agencies that prefer to ship fast.
 
 ---
 
@@ -26,11 +26,11 @@ Based in Germany 🇩🇪
 
 ## Connect
 
-🌐 [aaronrichter.tech](https://aaronrichter.tech) — My personal site
+🌐 [aaronrichter.tech](https://aaronrichter.tech)
 
-💼 [beyond925.de](https://beyond925.de) — Startup stuff
+💼 [LinkedIn](https://www.linkedin.com/in/ac-richter/)
 
-📫 Reach out: [Contact info from your site or leave blank]
+📧 contact@aaronrichter.tech
 
 ---
 
