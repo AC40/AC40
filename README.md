@@ -10,7 +10,7 @@ Based in Germany 🇩🇪
 
 🚀 **[beyond925](https://beyond925.de)** — My startup playground. Exploring ideas, shipping products.
 
-📸 **Vibegram** — The only Claude Code interface that does not sacrifice functionality.
+📸 **[Vibegram](https://github.com/AC40/vibegram)** — The only Claude Code interface that does not sacrifice functionality.
 
 🛠️ **ACMS** — A tiny content management system built for solo devs and agencies that prefer to ship fast.
 
