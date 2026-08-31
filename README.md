@@ -14,12 +14,10 @@ Based in Germany 🇩🇪 · CS + Business Economics student
 | [**acraft**](https://github.com/AC40/acraft) | Craft automation & tooling | Go |
 | [**ACMS**](https://github.com/AC40/acms) | Lightweight CMS for solo devs & agencies who ship fast | TypeScript |
 
-## 📊 GitHub Stats
+## 💡 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AC40&hide=contribs&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Aaron's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AC40&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-</p>
+TypeScript · Swift · Go · Astro · Python · CSS
+
 
 ## 🔗 Connect
 
