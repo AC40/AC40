@@ -12,10 +12,7 @@ Based in Germany 🇩🇪 · CS + Business Economics student
 |---|---|---|
 | [**ace**](https://github.com/AC40/ace) | CLI tool to get things done | Swift, Shell |
 | [**acraft**](https://github.com/AC40/acraft) | Craft automation & tooling | Go |
-| [**vibetunnel**](https://github.com/AC40/vibetunnel) | Turn any browser into your terminal — command agents on the go | TypeScript, Swift |
-| [**vibegram**](https://github.com/AC40/vibegram) | Steer AI agents from Telegram without sacrificing functionality | TypeScript |
 | [**ACMS**](https://github.com/AC40/acms) | Lightweight CMS for solo devs & agencies who ship fast | TypeScript |
-| [**beyond925**](https://beyond925.de) | Startup playground — exploring ideas, shipping products | Astro, TS |
 
 ## 📊 GitHub Stats
 
